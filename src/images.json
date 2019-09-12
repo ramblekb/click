@@ -1,0 +1,47 @@
+[
+  { 
+        "id": 1,
+    "name": "Ham",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtP-kKNVnnRbhrBRb27Y33HtiNMbZTNHbJjWQbHOM4y3Z1DGuZ"
+        },
+  {
+      "id": 2, 
+      "name": "On",
+      "image": "https://cdn.shopify.com/s/files/1/0069/6205/3173/products/Charles_Bukowski.jpg?v=1563740901"
+  },
+  {
+      "id": 3,
+      "name": "Rye",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1mzrxhqeFnb9jYI16T6G944hwIQz5QyQGh1sSQRqDRFA9n0kL"
+  },
+  {
+      "id": 4,
+      "name": "Women",
+      "image": "http://a.scpr.org/i/a5db7e73b0cbf23ca3eee9945d7e59dd/7233-full.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Hollywood",
+      "image": "https://www.sunsigns.org/famousbirthdays/d/images/pics/charles-bukowski-0.jpg"
+  },
+  {
+      "id": 6,
+      "name": "High Yella",
+      "image": "https://www.welt.de/img/kultur/literarischewelt/mobile167781549/7922503667-ci102l-w1024/BUKOWSKI-BORN-INTO-THIS-Charles-Bukowski-2004-c-Magnolia-Picturescourtesy-Evere.jpg"
+  },
+  {
+      "id": 7,
+      "name": "Six Pack",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61d7fr%2B5kYL._SX425_.jpg"
+  },
+  {
+      "id": 8,
+      "name": "Post",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQcmbqIboYbkBQLn5OP3lmWRNLMw-vWjYKNYEyurDazdwa5DQ3"
+  },
+  {
+      "id": 9,
+      "name": "Office",
+      "image": "https://i1.wp.com/ydwya.com/wp-content/uploads/2018/02/Charles-Bukowski-quotes-1.jpeg?fit=900%2C540&ssl=1"
+  }
+]
