@@ -1,5 +1,8 @@
 # click
-Click each picture just once!
+
+A memory game!
+
+Click each picture just once and your score will be calculated!
 
 https://clek.herokuapp.com/
 
